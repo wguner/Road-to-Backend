@@ -2,7 +2,6 @@
 
 ### 1. Programming Fundamentals
 
-    Choose a backend language: Python, C#, Go, C++ (for game dev)
     Master Data Structures & Algorithms (arrays, linked lists, trees, graphs)
     Understand OOP principles (SOLID, DRY, KISS, YAGNI)
     Learn asynchronous programming, threading, concurrency
